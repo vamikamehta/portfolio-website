@@ -191,6 +191,7 @@ input, select, textarea {
 
 	p {
 		margin: 0 0 2rem 0;
+		
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -2532,6 +2533,7 @@ input, select, textarea {
 
 		ol li {
 			padding-left: 0.25rem;
+			
 		}
 
 	ul {
@@ -2542,6 +2544,7 @@ input, select, textarea {
 
 		ul li {
 			padding-left: 0.325rem;
+			
 		}
 
 		ul.alt {
